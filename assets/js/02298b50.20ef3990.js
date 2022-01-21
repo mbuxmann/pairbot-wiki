@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpairbot_wiki=self.webpackChunkpairbot_wiki||[]).push([[955],{3788:function(i){i.exports=JSON.parse('{"allTagsPath":"/pairbot-wiki/blog/tags","slug":"/pairbot-wiki/blog/tags/hello","name":"hello","count":2,"permalink":"/pairbot-wiki/blog/tags/hello"}')}}]);

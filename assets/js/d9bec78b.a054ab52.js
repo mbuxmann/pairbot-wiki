@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpairbot_wiki=self.webpackChunkpairbot_wiki||[]).push([[331],{9839:function(a){a.exports=JSON.parse('{"allTagsPath":"/pairbot-wiki/blog/tags","slug":"/pairbot-wiki/blog/tags/facebook","name":"facebook","count":1,"permalink":"/pairbot-wiki/blog/tags/facebook"}')}}]);
